@@ -1,0 +1,2 @@
+# mailinglist
+Mailinglist Microservice
